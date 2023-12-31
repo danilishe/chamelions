@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chamelions/static/css/main.c775cdae.css",
+    "main.js": "/chamelions/static/js/main.5f1265a4.js",
+    "static/js/787.d07a264e.chunk.js": "/chamelions/static/js/787.d07a264e.chunk.js",
+    "index.html": "/chamelions/index.html",
+    "main.c775cdae.css.map": "/chamelions/static/css/main.c775cdae.css.map",
+    "main.5f1265a4.js.map": "/chamelions/static/js/main.5f1265a4.js.map",
+    "787.d07a264e.chunk.js.map": "/chamelions/static/js/787.d07a264e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c775cdae.css",
+    "static/js/main.5f1265a4.js"
+  ]
+}
